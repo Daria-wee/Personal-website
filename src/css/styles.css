@@ -21,3 +21,5 @@
 @import url('./portfolio.css');
 @import url('./contact.css');
 @import url('./footer.css'); 
+
+@import 'modern-normalize/modern-normalize.css';
