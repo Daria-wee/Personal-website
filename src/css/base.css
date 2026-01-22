@@ -24,7 +24,7 @@
     --color-backdrop: rgba(15, 15, 16, 0.6);
 }
 
-.theme-green {
+/* .theme-green {
     --color-button: #3CBC81;
     --color-button-active: #36A36F;
 }
@@ -47,7 +47,7 @@
 .theme-yellow {
     --color-button: #FACC15;
     --color-button-active: #E0B814;
-}
+} */
 
 @font-face {
     font-display: swap;
